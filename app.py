@@ -3,6 +3,10 @@ from sklearn.linear_model import LogisticRegression
 import sounddevice as sd  # pip install sounddevice
 import vosk  # pip install vosk
 
+# git remote add origin https://github.com/saburay32/aleek_seeneeboot.git
+# git branch -M 'main'
+# git push -u origin 'main'
+
 import json
 import queue
 

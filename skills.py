@@ -1,6 +1,6 @@
 import os, webbrowser, sys, requests, subprocess
 import voice
-
+#git remote add origin https://github.com/saburay32/aleek_seeneeboot.git
 try:
 	import requests		#pip install requests
 except:
